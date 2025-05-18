@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codie-kid/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/codie-kid/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/codie-kid/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/codie-kid/DSA/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
@@ -23,5 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/codie-kid/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/codie-kid/DSA/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/codie-kid/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/codie-kid/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
