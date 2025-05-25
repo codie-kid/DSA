@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codie-kid/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/codie-kid/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/codie-kid/DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -30,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/codie-kid/DSA/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/codie-kid/DSA/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/codie-kid/DSA/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/codie-kid/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
