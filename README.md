@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codie-kid/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codie-kid/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codie-kid/DSA/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codie-kid/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codie-kid/DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/codie-kid/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/codie-kid/DSA/tree/master/0202-happy-number) |
 ## Stack
